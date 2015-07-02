@@ -11,3 +11,4 @@ public class DemoServlet extends HttpServlet {
         resp.getWriter().println("{ \"name\": \"World\" }");
     }
 }
+
